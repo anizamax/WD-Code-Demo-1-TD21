@@ -13,6 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
+created by: Ian Vincent Atienza
 </div>
 
 <br />
@@ -59,13 +60,13 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
+- What is the project? 
 The project is all about creating a portfolio by incorporating the fundamentals of html and css on the site itself. It is to test and see whether the students are able to understand how html and css works.
-- Whats the purpose
+- Whats the purpose?
 There are 2 key purpose for this project. The first one is that the students are able to learn how to properly use and understand how html and css works. The second purpose is that the students benefit from this by creating their own portfolio which they can showcase it on other people or they may present it when applying for jobs.
-- What are key components
+- What are key components?
 The key components used in my portfolio is that I used different pages and elements that correspond to what I wanted my portfolio to look. I used different css codes for each pages to make everything feel unique.
-- What technology used and how it is used
+- What technology used and how it is used?
 The technology Tthat I used for this website is HTML and CSS. I used HTML for placing the components of my website and for linking other sites such as instagram pages and the like. I also used HTML on linking other pages of the site. I used CSS in order to make the design of the site more admirable. 
 
 ### Key Components
