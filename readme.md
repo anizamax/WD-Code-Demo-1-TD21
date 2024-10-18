@@ -118,3 +118,12 @@ WD-ProjectName
 | Title | Purpose | Link |
 |-|-|-|
 | Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
+| Film presentation | I wanted to incorporate the design and color of this presentation that I saw online | https://www.slidemembers.com/en_US/view/PPT-Templates/movie-presentation-powerpoint-templates-design-4941 |
+
+| Collage type content | I wanted it to look like a collage of photos because it is more easier to share it that way and it looks more creative and pleasing to the eye | https://www.google.com/url?sa=i&url=https%3A%2F%2Findieground.net%2Fproduct%2Fnewspaper-clippings%2F&psig=AOvVaw3j-LtpAmu1rn8pibFhq9QN&ust=1729311412628000&source=images&cd=vfe&opi=89978449&ved=0CBcQjhxqFwoTCOC375mJl4kDFQAAAAAdAAAAABAE
+
+| Video | I generated my own video by taking the shot then edit it. I want it to become the front page of the site so that the viewers can easily guess that the person in the portfolio is a film major |
+
+
+
